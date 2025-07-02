@@ -1,0 +1,45 @@
+.about-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 1px solid #d4a373;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+    font-family: "Segoe UI", sans-serif;
+    color: #2e2e2e;
+}
+
+.about-container h1 {
+    text-align: center;
+    color: #d4a373;
+    margin-bottom: 30px;
+    font-size: 32px;
+}
+
+.about-container h3 {
+    color: #5c3d2e;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #d4a373;
+    padding-bottom: 5px;
+    font-size: 22px;
+}
+
+.Address,
+.Contact,
+.Community {
+    margin-bottom: 25px;
+    padding: 10px 0;
+}
+
+.Address div,
+.Contact div,
+.Community div {
+    margin: 4px 0;
+    font-size: 16px;
+}
+
+a {
+    font-weight: 500;
+}
+

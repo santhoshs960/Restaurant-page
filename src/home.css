@@ -1,0 +1,37 @@
+
+
+.home-container {
+    max-width: 700px;
+    margin: 40px auto;
+    background-color: rgba(255, 255, 255, 0.8); 
+    color: #2e2e2e;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+    font-family: "Segoe UI", sans-serif;
+    line-height: 1.6;
+}
+
+p {
+    width: 60ch;
+    height: 250px;
+    line-height: 2;
+}
+
+.op_hours h4,
+.address h4 {
+    margin-top: 20px;
+    color: #d4a373;
+    font-size: 18px;
+    border-bottom: 1px solid #d4a373;
+    padding-bottom: 5px;
+}
+
+.message {
+    border: 1px solid;
+    margin: 35px 0 0;
+    padding: 10px;
+    box-shadow: 4px 6px 8px;
+    border-radius: 9px;
+    color: #b78711;
+}
